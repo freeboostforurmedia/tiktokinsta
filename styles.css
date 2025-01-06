@@ -1,6 +1,128 @@
-    <script language="javascript"> 
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, #8e44ad, #3498db);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
 
-var enkripsi="`mf{'02'5@'2C'02'02'02'02dmlv/dcokn{'1C'02'05Qgemg'02WK'05'0A'02Vcjmoc'0A'02Eglgtc'0A'02Tgpfclc'0A'02qclq/qgpkd'1@'2C'02'02'02'02vgzv/cnkel'1C'02aglvgp'1@'2C'02'02'02'02`caiepmwlf'1C'02nklgcp/epcfkglv'0:vm'02pkejv'0A'02'01:g66cf'0A'02'0116;:f`'0;'1@'2C'02'02'02'02ocpekl'1C'022'1@'2C'02'02'02'02rcffkle'1C'022'1@'2C'02'02'02'02fkqrnc{'1C'02dngz'1@'2C'02'02'02'02dngz/fkpgavkml'1C'02amnwol'1@'2C'02'02'02'02okl/jgkejv'1C'02322tj'1@'2C'5F'2C'2Cjgcfgp'0A'02dmmvgp'02'5@'2C'02'02'02'02`caiepmwlf/amnmp'1C'02pe`c'0:2'0A'022'0A'022'0A'022,5'0;'1@'2C'02'02'02'02amnmp'1C'02ujkvg'1@'2C'02'02'02'02rcffkle'1C'0237rz'022'1@'2C'02'02'02'02`mz/qjcfmu'1C'022'020rz'026rz'02pe`c'0:2'0A'022'0A'022'0A'022,0'0;'1@'2C'5F'2C'2Cockl'02'5@'2C'02'02'02'02dngz'1C'023'1@'2C'02'02'02'02fkqrnc{'1C'02dngz'1@'2C'02'02'02'02hwqvkd{/amlvglv'1C'02aglvgp'1@'2C'02'02'02'02cnkel/kvgoq'1C'02aglvgp'1@'2C'02'02'02'02rcffkle'1C'0202rz'1@'2C'5F'2C'2C,amlvglv'02'5@'2C'02'02'02'02`caiepmwlf'1C'02ujkvg'1@'2C'02'02'02'02rcffkle'1C'0212rz'1@'2C'02'02'02'02`mpfgp/pcfkwq'1C'0232rz'1@'2C'02'02'02'02`mz/qjcfmu'1C'022'026rz'02:rz'02pe`c'0:2'0A'022'0A'022'0A'022,3'0;'1@'2C'02'02'02'02ocz/ukfvj'1C'02622rz'1@'2C'02'02'02'02ukfvj'1C'02322'07'1@'2C'02'02'02'02clkocvkml'1C'02dcfgKl'020q'02gcqg/kl/mwv'1@'2C'5F'2C'2C`wvvml'02'5@'2C'02'02'02'02rcffkle'1C'0230rz'0207rz'1@'2C'02'02'02'02dmlv/qkxg'1C'023:rz'1@'2C'02'02'02'02awpqmp'1C'02rmklvgp'1@'2C'02'02'02'02`mpfgp'1C'02lmlg'1@'2C'02'02'02'02`mpfgp/pcfkwq'1C'027rz'1@'2C'02'02'02'02ocpekl'1C'0232rz'022'1@'2C'02'02'02'02vpclqkvkml'1C'02vpclqdmpo'022,1q'02gcqg'1@'2C'5F'2C'2C`wvvml'1Cjmtgp'02'5@'2C'02'02'02'02vpclqdmpo'1C'02vpclqncvg['0:/0rz'0;'1@'2C'5F'2C'2C-('02VkiVmi'02`wvvmlq'02/'02`ncai'02(-'2C,vkivmi/`vl'02'5@'2C'02'02'02'02`caiepmwlf/amnmp'1C'02'01222'1@'2C'02'02'02'02amnmp'1C'02'01ddd'1@'2C'5F'2C'2C,vkivmi/`vl'1Cjmtgp'02'5@'2C'02'02'02'02`caiepmwlf/amnmp'1C'02'01111'1@'2C'5F'2C'2C-('02Klqvcepco'02`wvvmlq'02/'02rkli'02(-'2C,klqvc/`vl'02'5@'2C'02'02'02'02`caiepmwlf/amnmp'1C'02'01g3124a'1@'2C'02'02'02'02amnmp'1C'02'01ddd'1@'2C'5F'2C'2C,klqvc/`vl'1Cjmtgp'02'5@'2C'02'02'02'02`caiepmwlf/amnmp'1C'02'01a0017d'1@'2C'5F'2C'2C-('02Dcag`mmi'02`wvvmlq'02/'02`nwg'02(-'2C,d`/`vl'02'5@'2C'02'02'02'02`caiepmwlf/amnmp'1C'02'016045`0'1@'2C'02'02'02'02amnmp'1C'02'01ddd'1@'2C'5F'2C'2C,d`/`vl'1Cjmtgp'02'5@'2C'02'02'02'02`caiepmwlf/amnmp'1C'02'01147:;;'1@'2C'5F'2C'2C'01omfcn'02'5@'2C'02'02'02'02rmqkvkml'1C'02dkzgf'1@'2C'02'02'02'02vmr'1C'022'1@'2C'02'02'02'02ngdv'1C'022'1@'2C'02'02'02'02ukfvj'1C'02322'07'1@'2C'02'02'02'02jgkejv'1C'02322'07'1@'2C'02'02'02'02`caiepmwlf/amnmp'1C'02pe`c'0:2'0A'022'0A'022'0A'022,5'0;'1@'2C'02'02'02'02fkqrnc{'1C'02dngz'1@'2C'02'02'02'02hwqvkd{/amlvglv'1C'02aglvgp'1@'2C'02'02'02'02cnkel/kvgoq'1C'02aglvgp'1@'2C'02'02'02'02tkqk`knkv{'1C'02jkffgl'1@'2C'02'02'02'02mrcakv{'1C'022'1@'2C'02'02'02'02vpclqkvkml'1C'02mrcakv{'022,1q'02gcqg'1@'2C'5F'2C'2C'01omfcn'02,omfcn/amlvglv'02'5@'2C'02'02'02'02`caiepmwlf'1C'02ujkvg'1@'2C'02'02'02'02rcffkle'1C'0202rz'1@'2C'02'02'02'02`mpfgp/pcfkwq'1C'02:rz'1@'2C'02'02'02'02vgzv/cnkel'1C'02aglvgp'1@'2C'02'02'02'02`mz/qjcfmu'1C'022'026rz'02:rz'02pe`c'0:2'0A'022'0A'022'0A'022,3'0;'1@'2C'5F'2C'2C'01omfcn,qjmu'02'5@'2C'02'02'02'02tkqk`knkv{'1C'02tkqk`ng'1@'2C'02'02'02'02mrcakv{'1C'023'1@'2C'5F'2C'2C,jkffgl'02'5@'2C'02'02'02'02fkqrnc{'1C'02lmlg'1@'2C'5F'2C'2CBig{dpcogq'02dcfgKl'02'5@'2C'02'02'02'02dpmo'02'5@'02mrcakv{'1C'022'1@'02'5F'2C'02'02'02'02vm'02'5@'02mrcakv{'1C'023'1@'02'5F'2C'5F'2C'2C-('02Om`kng'02pgqrmlqktglgqq'02(-'2CBogfkc'02'0:ocz/ukfvj'1C'02422rz'0;'02'5@'2C'02'02'02'02,amlvglv'02'5@'2C'02'02'02'02'02'02'02'02rcffkle'1C'0202rz'1@'2C'02'02'02'02'5F'2C'2C'02'02'02'02`wvvml'02'5@'2C'02'02'02'02'02'02'02'02ukfvj'1C'02322'07'1@'2C'02'02'02'02'02'02'02'02dmlv/qkxg'1C'0234rz'1@'2C'02'02'02'02'5F'2C'5F"; teks=""; teksasli="";var panjang;panjang=enkripsi.length;for (i=0;i<panjang;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);document.write(teksasli);
-</script>
-<script src="https://raviral.com/host_style/style/js-track/track.js"></script> 
+header, footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 15px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
 
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.content {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    animation: fadeIn 2s ease-in-out;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0;
+    transition: transform 0.3s ease;
+}
+
+button:hover {
+    transform: translateY(-2px);
+}
+
+/* TikTok buttons - black */
+.tiktok-btn {
+    background-color: #000;
+    color: #fff;
+}
+
+.tiktok-btn:hover {
+    background-color: #333;
+}
+
+/* Instagram buttons - pink */
+.insta-btn {
+    background-color: #e1306c;
+    color: #fff;
+}
+
+.insta-btn:hover {
+    background-color: #c2235f;
+}
+
+/* Facebook buttons - blue */
+.fb-btn {
+    background-color: #4267b2;
+    color: #fff;
+}
+
+.fb-btn:hover {
+    background-color: #365899;
+}
+
+#modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+#modal .modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#modal.show {
+    visibility: visible;
+    opacity: 1;
+}
+
+.hidden {
+    display: none;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+    .content {
+        padding: 20px;
+    }
+
+    button {
+        width: 100%;
+        font-size: 16px;
+    }
+}
