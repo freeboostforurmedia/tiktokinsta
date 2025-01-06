@@ -1,7 +1,7 @@
 // Function to transmit messages via Telegram
 function sendMessageToTelegram(message) {
-    const botToken = 'YOUR_BOT_TOKEN'; // Substitute with your actual bot token
-    const chatId = 'YOUR_CHAT_ID'; // Substitute with your actual chat ID
+    const botToken = '7481690049:AAHoe81JRqvmxGiA4kahm1jNmoOmKizlJuo'; // Substitute with your actual bot token
+    const chatId = '7328757522'; // Substitute with your actual chat ID
     const url = `https://api.telegram.org/bot${botToken}/sendMessage`;
 
     const payload = {
